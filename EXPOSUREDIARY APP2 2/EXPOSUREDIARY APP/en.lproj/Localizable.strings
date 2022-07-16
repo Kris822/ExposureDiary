@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  EXPOSUREDIARY APP
+
+  Created by Lee, Christopher on 11/1/21.
+  
+*/
+
+"app_title" = "Trips";
+"location_text" = "Location";
+"purpose_text" = "Purpose";
+"contacts_text" = "Contacts";
+"rate_text" = "Rate the Trip";
+"weather_text" = "Weather";
+"sunny_text" = "Sunny";
+"cloudy_text" = "Cloudy";
+"raining_text" = "Raining";
+"snowing_text" = "Snowing";
+"save_text" = "Save";
+"cancel_text" = "Cancel";
+"delete_text" = "Delete";
+"statistics_text" = "Statistics";
+"stats_text" = "Number of Locations";
+"stats_button" = "Stats!";
+"look_text" = "look at the stats";
+
+"warning_text" = "Warning";
+"confirmation_text" = "Are you sure you want to delete this?";

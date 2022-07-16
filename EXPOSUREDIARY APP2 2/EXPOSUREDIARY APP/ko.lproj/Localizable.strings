@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  EXPOSUREDIARY APP
+
+  Created by Lee, Christopher on 11/1/21.
+  
+*/
+
+"app_title" = "여행";
+"location_text" = "위치";
+"purpose_text" = "목적";
+"contacts_text" = "콘택트";
+"rate_text" = "여행 평가";
+"weather_text" = "날씨";
+"sunny_text" = "맑은";
+"cloudy_text" = "흐림";
+"raining_text" = "비가";
+"snowing_text" = "강설";
+"save_text" = "구하다";
+"cancel_text" = "취소";
+"delete_text" = "삭제";
+"statistics_text" = "통계";
+"stats_text" = "위치 수";
+"stats_button" = "통계!";
+"look_text" = "통계를 봐";
+
+"warning_text" = "경고";
+"confirmation_text" = "삭제하시겠습니까?";
